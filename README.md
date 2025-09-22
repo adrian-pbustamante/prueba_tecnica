@@ -1,4 +1,4 @@
-## 📌 Project Overview
+##  Project Overview
 
 The goal is twofold:
 
@@ -10,7 +10,7 @@ https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
 
 ---
 
-## 🗂️ Repository Structure
+Repository Structure
 
 ```
 credit-default-hurdle-model/
@@ -85,7 +85,7 @@ Models:
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 
 ### Classification Results 
 
