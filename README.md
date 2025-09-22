@@ -24,8 +24,6 @@ credit-default-hurdle-model/
 │   ├── data/preprocessing.py
 │   ├── models/train_classification.py
 │   ├── models/train_hurdle.py
-│   ├── models/evaluate.py
-│   └── utils/save_load.py
 │
 ├── data/                     # Dataset (raw & processed)
 │   ├── default_of_credit_card_clients.csv
